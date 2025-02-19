@@ -15,4 +15,4 @@ Config File:
 ![Tiapify-Queue Preview](https://raw.githubusercontent.com/Tiapify/tiapify-queue/main/image.png)
 
 
-![Purchase](https://tiapify.tebex.io/package/6693940) $5
+[Purchase](https://tiapify.tebex.io/package/6693940) $5
